@@ -1,0 +1,9 @@
+
+
+.container {
+  min-height: calc(100vh - 77.59px - 23.64px)
+}
+
+.nav {
+  display: inline-flex
+}
