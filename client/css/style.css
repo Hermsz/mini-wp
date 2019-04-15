@@ -1,9 +1,18 @@
 
-
-.container {
-  min-height: calc(100vh - 77.59px - 23.64px)
-}
-
 .nav {
   display: inline-flex
+}
+
+.form-rounded {
+  border-radius: 1rem;
+  }
+
+ .Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
 }
